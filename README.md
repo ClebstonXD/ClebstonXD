@@ -5,7 +5,6 @@ Sou um estudante de desenvolvimento web, curioso e determinado a crescer na áre
 
 > 💬 “Na pegada de aprender um pouco todo dia, porque ninguém vira dev do dia pra noite!” 😄
 
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=clebston-bezerra&color=blue)
 
 ---
 
