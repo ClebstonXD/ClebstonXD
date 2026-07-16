@@ -22,17 +22,6 @@ Sou um estudante na área de Tecnologia, curioso e determinado a crescer na áre
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ClebstonXD&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClebstonXD&layout=compact&theme=tokyonight"/>
-</div>
-
-
-
----
-
 ## 📫 Contato
 
 - [💼 LinkedIn](https://www.linkedin.com/in/clebston-bezerra-973895b8)
