@@ -9,19 +9,17 @@ Sou estudante de Engenharia de Software na Unicesumar e estou em constante apren
 
 ---
 
-## 🧠 Atualmente estudando:
+## 🧠 Formação acadêmica:
 
-- Engenharia de Software – Unicesumar
-  
-- Trilha Java – Capacita iREDE
+- Engenharia de Software – Unicesumar: em andamento.
 
 ---
 
-## 🎓 Cursos
+## 🎓 Cursos complementares
 
-✅ Concluídos
+- Bootcamp Itaú - Java com Inteligência Artificial - DIO: em andamento.
+- Capacita Irede C2 Trilha Java: em andamento.
 
--  Bootcamp GFT Start #6 – Lógica de Programação – DIO 
 
 ---
 
@@ -43,7 +41,7 @@ Atualmente estou construindo minha base em desenvolvimento de software e compart
 
 📌 FinTrack
 
-Sistema de controle financeiro desenvolvido em Java.
+Desenvolvimento de um sistema para gerenciamento de receitas e despesas, implementado progressivamente durante o processo de aprendizagem, com foco na prática de programação e na construção de funcionalidades do sistema.
 
 ---
 
